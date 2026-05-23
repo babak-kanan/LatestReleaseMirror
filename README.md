@@ -170,4 +170,29 @@ sha256sum FILE_NAME
 | `karing_1.2.18.2102_android_armeabi-v7a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/babak-kanan/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_armeabi-v7a.apk) |
 | `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/babak-kanan/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
 | `karing_1.2.18.2102_windows_x64.zip` | 62.0 MB | [⬇️ Download](https://raw.githubusercontent.com/babak-kanan/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.zip) |
+
+---
+
+<div id="iampedii--whitedns"></div>
+
+### iampedii--WhiteDNS
+
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.5.1</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.5.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `WhiteDNS-1.5.1-universal.apk` | 16.9 MB | [⬇️ Download](https://raw.githubusercontent.com/babak-kanan/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.1-universal.apk) |
+| `WhiteDNS-1.5.1-universal.apk.idsig` | 142 KB | [⬇️ Download](https://raw.githubusercontent.com/babak-kanan/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.1-universal.apk.idsig) |
+
+---
+
+<div id="iampedii--range-scout-android"></div>
+
+### iampedii--range-scout-android
+
+🔗 [source](https://github.com/iampedii/range-scout-android) – [<code><small>v0.1.2</small></code>](https://github.com/iampedii/range-scout-android/releases/tag/v0.1.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `range-scout-v0.1.2-universal-release-signed.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/babak-kanan/LatestReleaseMirror/main/releases/iampedii/range-scout-android/range-scout-v0.1.2-universal-release-signed.apk) |
 <!-- RELEASES_END -->
