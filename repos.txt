@@ -4,3 +4,5 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 KaringX/karing|windows|android
+iampedii/WhiteDNS|universal
+iampedii/range-scout-android|universal
